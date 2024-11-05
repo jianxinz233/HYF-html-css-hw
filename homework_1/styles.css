@@ -28,6 +28,10 @@ main {
     padding: 25px;
 }
 
+.navdiv h1 {
+    font-size: 1.5rem;
+}
+
 #navbar{
     display:flex;
     justify-content:space-between;
@@ -456,7 +460,7 @@ main img{
     }
 
     .skillboard {
-        margin: 10px 50px;
+        margin: 10px;
     }
 
     .skillbox{
@@ -468,7 +472,7 @@ main img{
     }
 
     .skilltitle {
-        font-size: 15px;
+        font-size: 12px;
         margin: 10px auto
     }
 
